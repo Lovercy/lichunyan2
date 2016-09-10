@@ -1,10 +1,7 @@
-import java.util.Scanner;
-
 public class prog2 {
 
     public static void main(String [] args){
-        Scanner sc=new Scanner(System.in);
-        String str=sc.nextLine();
+        String str=args[0];
         if(str!=null){
             String[] times=str.split(",");
             if(times.length==2){

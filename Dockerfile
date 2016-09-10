@@ -10,5 +10,4 @@ RUN chmod +x /program/startup.sh
 
 COPY target/lichunyan2-1.0-SNAPSHOT.jar.jar /program/lichunyan2.jar
 
-CMD /program/startup.sh
 

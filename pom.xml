@@ -4,7 +4,7 @@
   <groupId>com.demo.lichunyan2</groupId>
   <artifactId>lichunyan2</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>lichunyan2 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <build>

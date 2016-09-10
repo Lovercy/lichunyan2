@@ -1,4 +1,4 @@
-FROM docker.io/openjdk:8-alpine
+FROM docker.yihecloud.com/base/tomcat:2.0_201607181506
 
 MAINTAINER lichunyan cyli@yihecloud.com
 
